@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5753eb21-b792-4d4c-8c16-5d1a4e40cbc8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1kIUM2a542fZ7YJMbxjms0Uwq7w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\LeetCode\rechnen" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.sortByBits.php">
+    <configuration name="1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/1.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Palindrom 121.2332.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/Palindrom 121.2332.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="array_add.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" singleton="false" temporary="true" path="$PROJECT_DIR$/rechnen/array_add.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.2" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="sortByBits.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/sortByBits.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.sortByBits.php" />
+        <item itemvalue="PHP Script.Palindrom 121.2332.php" />
+        <item itemvalue="PHP Script.array_add.php" />
+        <item itemvalue="PHP Script.1.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5753eb21-b792-4d4c-8c16-5d1a4e40cbc8" name="Default Changelist" comment="" />
+      <created>1605387548072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605387548072</updated>
+      <workItem from="1605387549547" duration="822000" />
+      <workItem from="1605390166513" duration="163000" />
+      <workItem from="1605390340389" duration="4688000" />
+      <workItem from="1605477018358" duration="1741000" />
+      <workItem from="1619812340229" duration="3312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="98" key="#Palindrom_121.2332.php" timestamp="1619812447733">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="98" key="#Palindrom_121.2332.php/0.0.1536.824@0.0.1536.824" timestamp="1619812447733" />
+    <state width="1493" height="314" key="GridCell.Tab.0.bottom" timestamp="1619815447365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="314" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619815447365" />
+    <state width="1493" height="314" key="GridCell.Tab.0.center" timestamp="1619815447365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="314" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619815447365" />
+    <state width="1493" height="314" key="GridCell.Tab.0.left" timestamp="1619815447365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="314" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619815447365" />
+    <state width="1493" height="314" key="GridCell.Tab.0.right" timestamp="1619815447365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="314" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619815447365" />
+    <state x="604" y="332" key="NewPhpFileDialog" timestamp="1619815335077">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="332" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1619815335077" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1619815385809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1619815385809" />
+  </component>
+</project>
