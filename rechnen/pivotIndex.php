@@ -34,4 +34,3 @@ function pivotIndex($nums) {
 }
 $nums = [1, 2,3];
 echo pivotIndex($nums);
-

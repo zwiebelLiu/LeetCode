@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5753eb21-b792-4d4c-8c16-5d1a4e40cbc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rechnen/pivotIndex.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/selfDividingNumbers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rechnen/freqAlphabets.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rechnen/pivotIndex.php" beforeDir="false" afterPath="$PROJECT_DIR$/rechnen/pivotIndex.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rechnen/编程心得.docx" beforeDir="false" afterPath="$PROJECT_DIR$/rechnen/编程心得.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
       <recent name="C:\xampp\htdocs\LeetCode\rechnen" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.pivotIndex.php">
+  <component name="RunManager" selected="PHP Script.freqAlphabets.php">
     <configuration name="Palindrom 121.2332.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/Palindrom 121.2332.php">
       <CommandLine>
         <PhpTestInterpreterSettings>
@@ -48,12 +49,7 @@
       </CommandLine>
       <method v="2" />
     </configuration>
-    <configuration name="array_add.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" singleton="false" temporary="true" path="$PROJECT_DIR$/rechnen/array_add.php">
-      <CommandLine>
-        <PhpTestInterpreterSettings>
-          <option name="interpreterName" value="PHP 7.2" />
-        </PhpTestInterpreterSettings>
-      </CommandLine>
+    <configuration name="freqAlphabets.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/freqAlphabets.php">
       <method v="2" />
     </configuration>
     <configuration name="pivotIndex.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/pivotIndex.php">
@@ -67,11 +63,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.freqAlphabets.php" />
         <item itemvalue="PHP Script.pivotIndex.php" />
         <item itemvalue="PHP Script.selfDividingNumbers.php" />
         <item itemvalue="PHP Script.sortByBits.php" />
         <item itemvalue="PHP Script.Palindrom 121.2332.php" />
-        <item itemvalue="PHP Script.array_add.php" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +87,8 @@
       <workItem from="1605477018358" duration="1741000" />
       <workItem from="1619812340229" duration="4518000" />
       <workItem from="1619868679024" duration="594000" />
-      <workItem from="1619894515920" duration="10067000" />
+      <workItem from="1619894515920" duration="10329000" />
+      <workItem from="1619959226190" duration="2756000" />
     </task>
     <servers />
   </component>
@@ -103,26 +100,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="479" y="98" key="#Palindrom_121.2332.php/0.0.1536.824@0.0.1536.824" timestamp="1619812447733" />
-    <state width="1493" height="304" key="GridCell.Tab.0.bottom" timestamp="1619908310459">
+    <state width="1300" height="65" key="GridCell.Tab.0.bottom" timestamp="1619992991745">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619908310459" />
-    <state width="1493" height="304" key="GridCell.Tab.0.center" timestamp="1619908310459">
+    <state width="1300" height="65" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619992991745" />
+    <state width="1300" height="65" key="GridCell.Tab.0.center" timestamp="1619992991745">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619908310459" />
-    <state width="1493" height="304" key="GridCell.Tab.0.left" timestamp="1619908310459">
+    <state width="1300" height="65" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619992991745" />
+    <state width="1300" height="65" key="GridCell.Tab.0.left" timestamp="1619992991745">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619908310459" />
-    <state width="1493" height="304" key="GridCell.Tab.0.right" timestamp="1619908310459">
+    <state width="1300" height="65" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619992991745" />
+    <state width="1300" height="65" key="GridCell.Tab.0.right" timestamp="1619992991745">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619908310459" />
-    <state x="604" y="332" key="NewPhpFileDialog" timestamp="1619897056566">
+    <state width="1300" height="65" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619992991745" />
+    <state x="604" y="332" key="NewPhpFileDialog" timestamp="1619990902534">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="604" y="332" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1619897056566" />
+    <state x="604" y="332" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1619990902534" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1619815385809">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
