@@ -29,14 +29,8 @@ class Leetcode
           // $findword=;
            if(array_key_exists($diff,$finden)) return [$finden[$diff],$i];
            $finden[$nums[$i]]=$i;
-
-
         }
-
-
     }
-
-
 }
  $nums=[2,4,5,2];
  $target=4;
