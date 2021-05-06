@@ -2,17 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5753eb21-b792-4d4c-8c16-5d1a4e40cbc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rechnen/argestAltitude.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/countGoodRectangles.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/decompressRLElist.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/getNoZeroIntegers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/halvesAreAlike.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/maximum69Number.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/sumOfUnique.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/sumZero.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/totalSum.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rechnen/calculate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rechnen/checkRecord.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rechnen/distributeCandies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rechnen/fib.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rechnen/findRestaurant.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rechnen/minTimeToVisitAllPoints.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rechnen/oddCells.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rechnen/reverseWords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rechnen/shiftGrid.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rechnen/array_add.php" beforeDir="false" afterPath="$PROJECT_DIR$/rechnen/array_add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rechnen/~$编程心得.docx" beforeDir="false" afterPath="$PROJECT_DIR$/rechnen/~$编程心得.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rechnen/~WRL0005.tmp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/rechnen/编程心得.docx" beforeDir="false" afterPath="$PROJECT_DIR$/rechnen/编程心得.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../checklister" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
@@ -48,29 +49,29 @@
       <recent name="C:\xampp\htdocs\LeetCode\rechnen" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.argestAltitude.php">
-    <configuration name="argestAltitude.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/argestAltitude.php">
+  <component name="RunManager" selected="PHP Script.reverseWords.php">
+    <configuration name="checkRecord.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/checkRecord.php">
       <method v="2" />
     </configuration>
-    <configuration name="countGoodRectangles.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/countGoodRectangles.php">
+    <configuration name="distributeCandies.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/distributeCandies.php">
       <method v="2" />
     </configuration>
-    <configuration name="halvesAreAlike.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/halvesAreAlike.php">
+    <configuration name="fib.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/fib.php">
       <method v="2" />
     </configuration>
-    <configuration name="sumOfUnique.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/sumOfUnique.php">
+    <configuration name="findRestaurant.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/findRestaurant.php">
       <method v="2" />
     </configuration>
-    <configuration name="totalSum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/totalSum.php">
+    <configuration name="reverseWords.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/reverseWords.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHP Script.argestAltitude.php" />
-        <item itemvalue="PHP Script.countGoodRectangles.php" />
-        <item itemvalue="PHP Script.halvesAreAlike.php" />
-        <item itemvalue="PHP Script.totalSum.php" />
-        <item itemvalue="PHP Script.sumOfUnique.php" />
+        <item itemvalue="PHP Script.reverseWords.php" />
+        <item itemvalue="PHP Script.checkRecord.php" />
+        <item itemvalue="PHP Script.findRestaurant.php" />
+        <item itemvalue="PHP Script.distributeCandies.php" />
+        <item itemvalue="PHP Script.fib.php" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +94,13 @@
       <workItem from="1619894515920" duration="10329000" />
       <workItem from="1619959226190" duration="2756000" />
       <workItem from="1620027299005" duration="8217000" />
-      <workItem from="1620113166691" duration="14157000" />
+      <workItem from="1620113166691" duration="14903000" />
+      <workItem from="1620234090794" duration="6763000" />
+      <workItem from="1620284461338" duration="619000" />
+      <workItem from="1620285111702" duration="1215000" />
+      <workItem from="1620300682751" duration="2579000" />
+      <workItem from="1620312346358" duration="6096000" />
+      <workItem from="1620334206669" duration="119000" />
     </task>
     <servers />
   </component>
@@ -105,30 +112,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="479" y="98" key="#Palindrom_121.2332.php/0.0.1536.824@0.0.1536.824" timestamp="1619812447733" />
-    <state x="460" y="176" key="FileChooserDialogImpl" timestamp="1620132065793">
+    <state x="460" y="176" key="FileChooserDialogImpl" timestamp="1620286245935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="460" y="176" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620132065793" />
-    <state width="1302" height="211" key="GridCell.Tab.0.bottom" timestamp="1620162981659">
+    <state x="460" y="176" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620286245935" />
+    <state width="1493" height="200" key="GridCell.Tab.0.bottom" timestamp="1620334176690">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1302" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620162981659" />
-    <state width="1302" height="211" key="GridCell.Tab.0.center" timestamp="1620162981659">
+    <state width="1493" height="200" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620334176690" />
+    <state width="1493" height="200" key="GridCell.Tab.0.center" timestamp="1620334176690">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1302" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620162981659" />
-    <state width="1302" height="211" key="GridCell.Tab.0.left" timestamp="1620162981659">
+    <state width="1493" height="200" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620334176690" />
+    <state width="1493" height="200" key="GridCell.Tab.0.left" timestamp="1620334176690">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1302" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620162981659" />
-    <state width="1302" height="211" key="GridCell.Tab.0.right" timestamp="1620162981659">
+    <state width="1493" height="200" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620334176690" />
+    <state width="1493" height="200" key="GridCell.Tab.0.right" timestamp="1620334176690">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1302" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620162981659" />
-    <state x="604" y="332" key="NewPhpFileDialog" timestamp="1620162416730">
+    <state width="1493" height="200" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620334176690" />
+    <state x="604" y="332" key="NewPhpFileDialog" timestamp="1620333558025">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="604" y="332" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1620162416730" />
+    <state x="604" y="332" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1620333558025" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1619815385809">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -137,5 +144,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="264" y="9" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1620073923166" />
+    <state x="893" y="210" key="refactoring.ChangeSignatureDialog" timestamp="1620238006062">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="893" y="210" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1620238006062" />
+    <state x="419" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1620330523877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="419" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1620330523877" />
   </component>
 </project>
