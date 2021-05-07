@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5753eb21-b792-4d4c-8c16-5d1a4e40cbc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rechnen/calculate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/checkRecord.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/distributeCandies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/fib.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/findRestaurant.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/minTimeToVisitAllPoints.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/oddCells.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/reverseWords.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/shiftGrid.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rechnen/addohneoption.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rechnen/majorityElement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rechnen/missingNumber.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rechnen/numberOf2sInRange.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rechnen/romanToInt.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rechnen/~$编程心得.docx" beforeDir="false" afterPath="$PROJECT_DIR$/rechnen/~$编程心得.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rechnen/~WRL0005.tmp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/rechnen/编程心得.docx" beforeDir="false" afterPath="$PROJECT_DIR$/rechnen/编程心得.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,29 +43,29 @@
       <recent name="C:\xampp\htdocs\LeetCode\rechnen" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.reverseWords.php">
-    <configuration name="checkRecord.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/checkRecord.php">
+  <component name="RunManager" selected="PHP Script.romanToInt.php">
+    <configuration name="addohneoption.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/addohneoption.php">
       <method v="2" />
     </configuration>
-    <configuration name="distributeCandies.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/distributeCandies.php">
+    <configuration name="majorityElement.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/majorityElement.php">
       <method v="2" />
     </configuration>
-    <configuration name="fib.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/fib.php">
+    <configuration name="missingNumber.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/missingNumber.php">
       <method v="2" />
     </configuration>
-    <configuration name="findRestaurant.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/findRestaurant.php">
+    <configuration name="numberOf2sInRange.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/numberOf2sInRange.php">
       <method v="2" />
     </configuration>
-    <configuration name="reverseWords.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/reverseWords.php">
+    <configuration name="romanToInt.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/romanToInt.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHP Script.reverseWords.php" />
-        <item itemvalue="PHP Script.checkRecord.php" />
-        <item itemvalue="PHP Script.findRestaurant.php" />
-        <item itemvalue="PHP Script.distributeCandies.php" />
-        <item itemvalue="PHP Script.fib.php" />
+        <item itemvalue="PHP Script.romanToInt.php" />
+        <item itemvalue="PHP Script.numberOf2sInRange.php" />
+        <item itemvalue="PHP Script.missingNumber.php" />
+        <item itemvalue="PHP Script.addohneoption.php" />
+        <item itemvalue="PHP Script.majorityElement.php" />
       </list>
     </recent_temporary>
   </component>
@@ -101,6 +95,8 @@
       <workItem from="1620300682751" duration="2579000" />
       <workItem from="1620312346358" duration="6096000" />
       <workItem from="1620334206669" duration="119000" />
+      <workItem from="1620369983070" duration="722000" />
+      <workItem from="1620416484548" duration="4777000" />
     </task>
     <servers />
   </component>
@@ -112,30 +108,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="479" y="98" key="#Palindrom_121.2332.php/0.0.1536.824@0.0.1536.824" timestamp="1619812447733" />
-    <state x="460" y="176" key="FileChooserDialogImpl" timestamp="1620286245935">
+    <state x="460" y="176" key="FileChooserDialogImpl" timestamp="1620370799006">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="460" y="176" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620286245935" />
-    <state width="1493" height="200" key="GridCell.Tab.0.bottom" timestamp="1620334176690">
+    <state x="460" y="176" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620370799006" />
+    <state width="1302" height="222" key="GridCell.Tab.0.bottom" timestamp="1620421181744">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="200" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620334176690" />
-    <state width="1493" height="200" key="GridCell.Tab.0.center" timestamp="1620334176690">
+    <state width="1302" height="222" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620421181744" />
+    <state width="1302" height="222" key="GridCell.Tab.0.center" timestamp="1620421181744">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="200" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620334176690" />
-    <state width="1493" height="200" key="GridCell.Tab.0.left" timestamp="1620334176690">
+    <state width="1302" height="222" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620421181744" />
+    <state width="1302" height="222" key="GridCell.Tab.0.left" timestamp="1620421181744">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="200" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620334176690" />
-    <state width="1493" height="200" key="GridCell.Tab.0.right" timestamp="1620334176690">
+    <state width="1302" height="222" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620421181744" />
+    <state width="1302" height="222" key="GridCell.Tab.0.right" timestamp="1620421181744">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="200" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620334176690" />
-    <state x="604" y="332" key="NewPhpFileDialog" timestamp="1620333558025">
+    <state width="1302" height="222" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620421181744" />
+    <state x="604" y="332" key="NewPhpFileDialog" timestamp="1620420243165">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="604" y="332" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1620333558025" />
+    <state x="604" y="332" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1620420243165" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1619815385809">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -152,5 +148,16 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="419" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1620330523877" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/rechnen/romanToInt.php</url>
+          <line>65</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
