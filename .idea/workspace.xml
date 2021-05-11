@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5753eb21-b792-4d4c-8c16-5d1a4e40cbc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rechnen/1.longestCommonPrefix.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/2distributeCandiesII.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/convertToTitle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/findOcurrences.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/heightChecker.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/isValid.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/mergeTwoLists.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/relativeSortArray.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/removeDuplicates.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechnen/searchInsert.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rechnen/balancedStringSplit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rechnen/checkStraightLine.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rechnen/subtractProductAndSum.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rechnen/uniqueOccurrences.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rechnen/~$编程心得.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rechnen/编程心得.docx" beforeDir="false" afterPath="$PROJECT_DIR$/rechnen/编程心得.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,29 +42,29 @@
       <recent name="C:\xampp\htdocs\LeetCode\rechnen" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.relativeSortArray.php">
-    <configuration name="2distributeCandiesII.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/2distributeCandiesII.php">
+  <component name="RunManager" selected="PHP Script.subtractProductAndSum.php">
+    <configuration name="balancedStringSplit.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/balancedStringSplit.php">
       <method v="2" />
     </configuration>
-    <configuration name="convertToTitle.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/convertToTitle.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="findOcurrences.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/findOcurrences.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="heightChecker.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/heightChecker.php">
+    <configuration name="checkStraightLine.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/checkStraightLine.php">
       <method v="2" />
     </configuration>
     <configuration name="relativeSortArray.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/relativeSortArray.php">
       <method v="2" />
     </configuration>
+    <configuration name="subtractProductAndSum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/subtractProductAndSum.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="uniqueOccurrences.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rechnen/uniqueOccurrences.php">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.subtractProductAndSum.php" />
+        <item itemvalue="PHP Script.checkStraightLine.php" />
+        <item itemvalue="PHP Script.balancedStringSplit.php" />
+        <item itemvalue="PHP Script.uniqueOccurrences.php" />
         <item itemvalue="PHP Script.relativeSortArray.php" />
-        <item itemvalue="PHP Script.2distributeCandiesII.php" />
-        <item itemvalue="PHP Script.findOcurrences.php" />
-        <item itemvalue="PHP Script.heightChecker.php" />
-        <item itemvalue="PHP Script.convertToTitle.php" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +100,8 @@
       <workItem from="1620587530174" duration="1362000" />
       <workItem from="1620593899782" duration="2958000" />
       <workItem from="1620634033422" duration="96000" />
-      <workItem from="1620677235676" duration="5140000" />
+      <workItem from="1620677235676" duration="5447000" />
+      <workItem from="1620761327196" duration="4512000" />
     </task>
     <servers />
   </component>
@@ -127,42 +121,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="460" y="176" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620677326666" />
-    <state width="1493" height="216" key="GridCell.Tab.0.bottom" timestamp="1620682569182">
+    <state width="1478" height="247" key="GridCell.Tab.0.bottom" timestamp="1620766089694">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="216" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620682569182" />
-    <state width="1493" height="216" key="GridCell.Tab.0.center" timestamp="1620682569182">
+    <state width="1478" height="247" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620766089694" />
+    <state width="1478" height="247" key="GridCell.Tab.0.center" timestamp="1620766089694">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="216" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620682569182" />
-    <state width="1493" height="216" key="GridCell.Tab.0.left" timestamp="1620682569182">
+    <state width="1478" height="247" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620766089694" />
+    <state width="1478" height="247" key="GridCell.Tab.0.left" timestamp="1620766089693">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="216" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620682569182" />
-    <state width="1493" height="216" key="GridCell.Tab.0.right" timestamp="1620682569182">
+    <state width="1478" height="247" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620766089693" />
+    <state width="1478" height="247" key="GridCell.Tab.0.right" timestamp="1620766089694">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="216" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620682569182" />
-    <state x="604" y="332" key="NewPhpFileDialog" timestamp="1620681429327">
+    <state width="1478" height="247" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620766089694" />
+    <state x="604" y="332" key="NewPhpFileDialog" timestamp="1620765697604">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="604" y="332" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1620681429327" />
+    <state x="604" y="332" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1620765697604" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1619815385809">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1619815385809" />
-    <state x="264" y="9" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1620073923166">
+    <state x="264" y="9" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1620764326464">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="264" y="9" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1620073923166" />
+    <state x="264" y="9" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1620764326464" />
     <state x="893" y="210" key="refactoring.ChangeSignatureDialog" timestamp="1620238006062">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="893" y="210" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1620238006062" />
-    <state x="419" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1620677563418">
+    <state x="419" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1620762287349">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="419" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1620677563418" />
+    <state x="419" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1620762287349" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -176,6 +170,11 @@
           <url>file://$PROJECT_DIR$/rechnen/1.longestCommonPrefix.php</url>
           <line>18</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/rechnen/subtractProductAndSum.php</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
